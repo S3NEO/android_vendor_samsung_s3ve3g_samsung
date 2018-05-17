@@ -224,7 +224,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/s3ve3g/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
 	vendor/samsung/s3ve3g/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
 	vendor/samsung/s3ve3g/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
-	vendor/samsung/s3ve3g/proprietary/lib/hw/sensors.msm8226.so:system/lib/hw/sensors.msm8226.so \
+	vendor/samsung/s3ve3g/proprietary/lib/hw/sensors.vendor.msm8226.so:system/lib/hw/sensors.msm8226.so \
 	vendor/samsung/s3ve3g/proprietary/lib/libyasalgo.so:system/lib/libyasalgo.so \
 	vendor/samsung/s3ve3g/proprietary/bin/thermal-engine:system/bin/thermal-engine \
 	vendor/samsung/s3ve3g/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
