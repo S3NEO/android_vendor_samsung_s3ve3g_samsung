@@ -16,7 +16,7 @@
 
 PRODUCT_COPY_FILES += \
 	vendor/samsung/s3ve3g/proprietary/app/com.qualcomm.location/com.qualcomm.location.apk:system/app/com.qualcomm.location/com.qualcomm.location.apk \
-	vendor/samsung/klte-common/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
+	vendor/samsung/s3ve3g/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
 	vendor/samsung/s3ve3g/proprietary/vendor/lib/libRSDriver_adreno.so:system/vendor/lib/libRSDriver_adreno.so \
     	vendor/samsung/s3ve3g/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     	vendor/samsung/s3ve3g/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
